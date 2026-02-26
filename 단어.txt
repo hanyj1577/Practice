@@ -1,0 +1,104 @@
+account 계좌, 설명
+adjust 조정하다
+agenda 의제, 일정
+annual 연간의
+applicant 지원자
+appointment 약속, 예약
+approve 승인하다
+arrangement 준비, 합의
+attach 첨부하다
+available 이용 가능한
+benefit 혜택, 이익
+budget 예산
+candidate 후보자
+cancel 취소하다
+client 고객
+conference 회의
+confirm 확인하다
+contract 계약
+convenient 편리한
+corporate 회사의
+deadline 마감일
+deliver 배달하다, 전달하다
+department 부서
+deposit 예금, 보증금
+discount 할인
+distribute 배포하다
+effective 효과적인
+efficient 효율적인
+employ 고용하다
+employee 직원
+employer 고용주
+equipment 장비
+estimate 추정하다
+evaluate 평가하다
+executive 임원
+expense 비용
+extend 연장하다
+facility 시설
+feedback 피드백
+forecast 예측
+form 양식
+fund 자금
+guarantee 보장하다
+headquarters 본사
+hire 고용하다
+immediately 즉시
+improve 향상시키다
+include 포함하다
+increase 증가하다
+inform 알리다
+inspection 점검
+install 설치하다
+instruct 지시하다
+invoice 청구서
+issue 문제, 발행하다
+item 품목
+launch 출시하다
+lease 임대하다
+location 위치
+maintain 유지하다
+management 경영, 관리
+manufacture 제조하다
+meeting 회의
+merchandise 상품
+negotiate 협상하다
+notice 공지
+offer 제공하다, 제안
+order 주문
+organize 조직하다
+participate 참여하다
+payment 지불
+permit 허가하다, 허가증
+personnel 인사 부서, 직원
+policy 정책
+position 직책
+purchase 구매하다
+receipt 영수증
+recommend 추천하다
+refund 환불
+register 등록하다
+regulation 규정
+renew 갱신하다
+repair 수리하다
+replace 교체하다
+represent 대표하다
+request 요청하다
+require 요구하다
+reservation 예약
+respond 응답하다
+resume 이력서
+retail 소매
+schedule 일정
+shipment 선적, 배송
+sign 서명하다
+staff 직원
+statement 진술서, 명세서
+submit 제출하다
+supply 공급하다
+survey 설문조사
+temporary 임시의
+transfer 이동하다
+update 업데이트하다
+warehouse 창고
+withdraw 인출하다
