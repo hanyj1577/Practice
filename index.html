@@ -163,7 +163,20 @@
 
     var isRestart = true;
 
+    function loadVoice() {
+        const voices = window.speechSynthesis.getVoices();
+        return voices.find((v) => v.lang=="en-US" && /Ava|Google US English/i.test(v.name)) ||
+               voices.find((v) => v.lang=="en-US" && /female|Jenny/i.test(v.name)) ||
+               voices.find((v) => v.lang=="en-US") ||
+               null;
+    }
+    var _voice = loadVoice();
+  
     function playVoice() {
+        if (!_voice){
+            _voice = loadVoice();
+        }
+    
         try { 
             isRestart = true;
             recognition.stop(); 
@@ -173,6 +186,8 @@
         uttr.lang = 'en-US';
         uttr.rate = 0.8; 
         uttr.pitch = 1.0; 
+        uttr.voice = _voice;
+      
         uttr.onend = () => { 
             document.getElementById('stt-status').innerText = "이제 발음해 보세요!"; 
             startSTT();
